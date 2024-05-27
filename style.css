@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+
+#mees{
+    border-radius: 10px;
+    scale: 2;
+    position: fixed;
+    left: 200px;
+    top: 100px;
+}
+
+#meesje{
+    scale: 0.3;
+    position: fixed;
+    top: -90px;
+    left: -120px;
+}
+
+#joehoe{
+    position: fixed;
+    top: 320px;
+    left: 155px;
+    color: white;
+}
+
+#koekenpan{
+    position: fixed;
+    top: 370px;
+    left: 86.9px;
+    border-radius: 50px;
+}
